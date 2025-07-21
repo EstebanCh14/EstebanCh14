@@ -15,8 +15,7 @@
 - 💡 Enfocado en el desarrollo de software, **analítica de datos** y **machine learning**
 - 🔭 Actualmente construyendo proyectos con **Python**, **JavaScript**, **HTML** y **MySQL**
 - ⚙️ Me entusiasma automatizar procesos y crear soluciones escalables
-- 📚 Estudiando buenas prácticas de **Clean Architecture**, **DevOps** y diseño de APIs REST
-- ✍️ Escribo artículos técnicos y tutoriales en [mi blog personal](https://github.com/EstebanCh14)
+- 📚 Estudiando buenas prácticas de **Clean Code**
 
 ---
 
