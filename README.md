@@ -4,7 +4,7 @@
 
 <!-- Imagen profesional -->
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/EstebanCh14/EstebanCh14/assets/banner-tech.gif" alt="Ingeniero de Sistemas - Banner Profesional" width="600"/>
+  <img src="https://cdn.jsdelivr.net/gh/EstebanCh14/EstebanCh14/assets/tech-banner.gif" alt="Ingeniero de Sistemas - Banner Profesional" width="600"/>
 </p>
 
 ---
