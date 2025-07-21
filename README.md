@@ -59,10 +59,13 @@
   </a>
 </p>
 
+📫 O escríbeme directamente a: [juanestebanchicam@gmail.com](mailto:juanestebanchicam@gmail.com)
+
 ---
 
 ### ✨ Frase que me motiva
 > _"La mejor manera de predecir el futuro es crearlo."_ — **Peter Drucker**
 
 ---
+
 
