@@ -1,5 +1,5 @@
 <!-- Encabezado -->
-<h1 align="center">¡Hola! 👋 Soy Esteban Chica</h1>
+<h1 align="center">¡Hola! Soy Esteban Chica 👋 </h1>
 <h3 align="center">Ingeniero de Sistemas en formación | Apasionado por el desarrollo, los datos y la inteligencia artificial</h3>
 
 <!-- Imagen profesional -->
