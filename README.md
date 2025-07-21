@@ -65,5 +65,7 @@
 > _"La mejor manera de predecir el futuro es crearlo."_ — **Peter Drucker**
 
 ---
-
+<p align = "center">
+	<img src = "https://github.com/7oSkaaa/7oSkaaa/blob/output/github-contribution-grid-snake.svg?" alt = "Snake Game"/>
+</p>
 
